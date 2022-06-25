@@ -1,4 +1,6 @@
 # Jigsaw JS Puzzle Library
+## Demo
+[Demo](https://nico-src.github.io/projects/jigsaw-puzzle/)
 ## Installation
 Include the script in your file:
 ```html
