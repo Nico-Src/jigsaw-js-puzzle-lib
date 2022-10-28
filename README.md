@@ -1,4 +1,4 @@
-# Jigsaw JS Puzzle Library
+# Jigsaw JS Puzzle Library (WIP)
 ## Demo
 [Demo](https://nico-src.github.io/projects/jigsaw-puzzle/)
 ## Installation
